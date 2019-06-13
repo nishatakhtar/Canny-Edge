@@ -17,7 +17,7 @@
 /*     program, or from works that you derive from this program and the 
       following link has to be cited with the programmers name and their
       associated institution.
-/*         http://www.github.com/nishatakhtar/HSVImageThresholding-API */
+/*         https://github.com/nishatakhtar/HSV-thresholding-for-FESEM- */
 
 /*  4. Use of this program or creation of derived works based on this    */
 /*     program constitutes acceptance of these licensing restrictions.   */
